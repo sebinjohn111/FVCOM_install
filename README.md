@@ -1,2 +1,2 @@
 # FVCOM_install
-semiautomatic fvcom installation scripts
+semi-automatic fvcom installation scripts
