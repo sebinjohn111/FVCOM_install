@@ -2,6 +2,7 @@
 
 #author: sebinjohn@usf.edu
 #semi-automatic fvcom installation for OCL students
+# tested by Orion, Ocl, USF 2024 April 2
 #recompiled in sebin@ocg12 linux ubuntu tower server in 2024 March 28
 # updated for the FVCOM4.4.2 @ OCL in 2023 January 12
 # first version of this script created during My Phd @ NIO with FVCOM3.0, 4.1,4.4.1
