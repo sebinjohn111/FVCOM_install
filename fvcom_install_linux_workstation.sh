@@ -1,9 +1,13 @@
 #/usr/bin/bash 
 
 #author: sebinjohn@usf.edu
-#semi-automatic fvcom installation for OCL students
+#semi-automatic fvcom installation for OCL students 
+#tetsted in Stampede3 HPC https://tacc.utexas.edu/systems/stampede3/on 2024 April 26 (Rocky Linux,RHEL)
+#tetsted in USF HPC Cluster https://wiki.rc.usf.edu/index.php/Connecting_To_SC on 2024 April 26 (Red Hat Enterprise Linux Server 7.4)
+# USF HPC cluster: load the intel compliler(module load compilers/intel/2020_cluster_xe)
+#tested in Frontera HPC https://tacc.utexas.edu/systems/frontera/ on 2024 April 26 (CentOS Linux 7)
 # tested by Orion, Ocl, USF 2024 April 2
-#recompiled in sebin@ocg12 linux ubuntu tower server in 2024 March 28
+#recompiled in sebin-ocg12 linux ubuntu tower server in 2024 March 28
 # updated for the FVCOM4.4.2 @ OCL in 2023 January 12
 # first version of this script created during My Phd @ NIO with FVCOM3.0, 4.1,4.4.1
 
