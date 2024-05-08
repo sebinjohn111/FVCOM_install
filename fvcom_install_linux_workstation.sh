@@ -1,4 +1,4 @@
-#/usr/bin/bash 
+#!/usr/bin/bash 
 
 #author: sebinjohn@usf.edu
 #semi-automatic fvcom installation for OCL students 
